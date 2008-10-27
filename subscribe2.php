@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Subscribe2 For Social Privacy
-Plugin URI: http://multinc.com
-Description: The 3rd-party Subscribe2 plugin allows registered and unregistered users to be notified via email whenever a new post is published.  It allows users to subscribe to either full posts or excerpts of posts, to choose whether the format of full posts should be HTML or plain-text, and to select which categories they are interested in. Subscribe2 was enhanced to work with Social Access Control so that users receive emails only for posts or categories of posts that they are permitted to view.  Also, the administrator can choose additional email content levels depending on whether the post is public or restricted: full post, excerpt, title only, no email.
+Plugin URI: http://multinc.com/wp/social-privacy/subscribe2-for-social-privacy/
+Description:  Part of the Social Privacy set of plugins.  Based on the 3rd-party Subscribe2, this plugin allows registered and unregistered users to be notified via email whenever there is a new post that they are permitted to access.  Users can choose between different email contents and post categories.
 Version: 1.1
-Author: Justin at Multinc
+Author: Justin
 Author URI: http://multinc.com
 */
 
