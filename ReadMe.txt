@@ -1,4 +1,4 @@
-=== Social Subscribe2 ===
+=== Subscribe2 for Social Privacy ===
 Contributors: Justin at Multinc
 Donate link: http://multinc.com/wp/donate
 Tags: social privacy, social, privacy, private, protect, restrict, restriction, permit, permission, permissions, rights, allow, access, categories, email, notification
